@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: '-',
+        token: '+',
         prefix: '-',
         activity: 'Litsening to XCALIBUR',
     },
