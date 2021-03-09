@@ -10,7 +10,7 @@ module.exports = {
     discord: {
         token: '+',
         prefix: '+',
-        activity: 'Litsening to XCALIBUR',
+        activity: 'Playing Music With 💕 by XCALIBUR',
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
